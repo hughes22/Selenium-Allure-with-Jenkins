@@ -1,3 +1,4 @@
 "Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
-"passed","Fri Jul 12 11:01:45 GMT 2024","Fri Jul 12 11:01:50 GMT 2024","5023","Surefire suite","Surefire test","AccordionsTest","AccordionsTest","accordionsTest","accordionsTest",""
-"passed","Fri Jul 12 11:01:51 GMT 2024","Fri Jul 12 11:01:56 GMT 2024","5235","Surefire suite","Surefire test","HoverTest","HoverTest","hoverTest","hoverTest",""
+"passed","Fri Jul 12 14:11:36 GMT 2024","Fri Jul 12 14:11:42 GMT 2024","5357","Surefire suite","Surefire test","AccordionsTest","AccordionsTest","accordionsTest","accordionsTest",""
+"passed","Fri Jul 12 14:11:42 GMT 2024","Fri Jul 12 14:11:47 GMT 2024","4661","Surefire suite","Surefire test","ClickEventsTest","ClickEventsTest","clickEventsTest","clickEventsTest",""
+"passed","Fri Jul 12 14:11:48 GMT 2024","Fri Jul 12 14:11:52 GMT 2024","4617","Surefire suite","Surefire test","HoverTest","HoverTest","hoverTest","hoverTest",""

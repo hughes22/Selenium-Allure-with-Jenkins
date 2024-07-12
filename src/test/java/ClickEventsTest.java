@@ -23,6 +23,10 @@ public class ClickEventsTest {
         ClickEvents clickEvents = new ClickEvents(driver);
         clickEvents.click1();
         clickEvents.text1();
+        clickEvents.click2();
+        clickEvents.text2();
+        clickEvents.click3();
+        clickEvents.text3();
     }
 
 }
