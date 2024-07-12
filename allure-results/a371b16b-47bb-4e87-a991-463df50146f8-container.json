@@ -1,0 +1,1 @@
+{"uuid":"a371b16b-47bb-4e87-a991-463df50146f8","name":"ClickEventsTest","children":["85da99c0-186a-4d51-b4f7-b910d0d1ffe0"],"befores":[{"name":"setUp","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1720795634321,"stop":1720795635030}],"afters":[],"start":1720795626874,"stop":1720795646131}

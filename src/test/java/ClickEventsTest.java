@@ -27,6 +27,8 @@ public class ClickEventsTest {
         clickEvents.text2();
         clickEvents.click3();
         clickEvents.text3();
+        clickEvents.click4();
+        clickEvents.text4();
     }
 
 }

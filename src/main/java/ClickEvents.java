@@ -50,4 +50,16 @@ public class ClickEvents extends Accordions {
             throw new AssertionError("Text is not correct");
         }
     }
+    public void click4() {
+        WebElement element = driver.findElement(Cow);
+        element.click();
+    }
+    public void text4() {
+        WebElement element = driver.findElement(view1);
+        String text = element.getText();
+        System.out.println(text);
+        if(!"Moo!".equals(text)){
+            throw new AssertionError("Text is not correct");
+        }
+    }
 }
